@@ -24,7 +24,7 @@ docker-compose up
 
 * Login (Method-POST)
     ```
-    http://localhost:8080/signup
+    http://localhost:8080/login
     ```
     Request body:
 
